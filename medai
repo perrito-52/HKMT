@@ -1,0 +1,7 @@
+# (HKMTMedia)
+# > 愛奇藝台灣站
+DOMAIN,cache.video.iqiyi.com,HKMTMedia
+# > bilibili
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN,api.bilibili.com
+DOMAIN,www.bilibili.com
